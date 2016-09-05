@@ -18,7 +18,7 @@ public class Actividad21 {
      */
     public static void main(String[] args) {
         // Declaración e inicialización de variables.
-        int valueX = 0; int valueY = 0; int valueZ = 0;
+        int valueX, valueY, valueZ;
         
         // Declaración de elemento Scanner
         Scanner msn = new Scanner(System.in);
